@@ -21,7 +21,7 @@ In addition to the conventional ways you earn CLAM, periodically there may be bo
 
 Remember, CLAMs was the fairest distribution in monetary history, which means that the developers did not keep any CLAMs for themselves. To date, this project has relied almost entirely on volunteers who wish to make the world a better place.
 
-If you're looking for ideas about where to jump in, then have a look at the CLAMs Development Plan, and jump on board!
+If you're looking for ideas about where to jump in, then have a look at the [CLAMs Development Plan]({{ site.url }}/learn/development), and jump on board!
 
 ###Long Live the Great CLAM!
 
