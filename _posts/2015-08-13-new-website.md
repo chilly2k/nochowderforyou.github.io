@@ -6,7 +6,11 @@ excerpt: "The CLAM project launches a new open source website powered by github.
 tags: []
 ---
 
-Today, the CLAM project launched a new website powered by github.com.  The new website is powered by Github.com and is open source.  We welcome pull requests and the contribution of the community.
+Today, the new open source CLAM project website was launched!
+
+The new website is powered by Github.com and is thus entirely open source and available for direct community contribution.  
+
+We welcome pull requests!
 
 ---
 
