@@ -31,7 +31,7 @@ A guide to importing and claiming distribution CLAMs.
 
 ##[Create CLAMs]({{ site.url }}/learn/create-clams)
 
-The CLAM network is secured by it's users; but, what does this mean?
+The CLAM network is secured by its users; but, what does this mean?
 
 ---
 

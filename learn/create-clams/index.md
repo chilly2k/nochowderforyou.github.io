@@ -11,7 +11,7 @@ image:
 
 ---
 
-The CLAM network is secured through a unique system called Proof-of-Working-Stake(POWS), or as we like to say, *Digging for fresh CLAMs!* Approximately once per minute, the network automatically selects one running unlocked client to process recent CLAM transactions, rewarding them 1 CLAM. This process happens entirely in the background. If the network selects your client, then all you'll notice is that you're 1 CLAM richer! This POWS system is the heart of the CLAM network, providing security and stabilizing the price over time.
+The CLAM network is secured through a unique system called Proof-of-Working-Stake (POWS), or as we like to say, *Digging for fresh CLAMs!* Approximately once per minute, the network automatically selects one running unlocked client to process recent CLAM transactions, rewarding them 1 CLAM. This process happens entirely in the background. If the network selects your client, then all you'll notice is that you're 1 CLAM richer! This POWS system is the heart of the CLAM network, providing security and stabilizing the price over time.
 
 ---
 
@@ -21,9 +21,9 @@ The CLAM network is secured through a unique system called Proof-of-Working-Stak
 
 ##Staking CLAMs
 
-To understand POWS, think of your CLAMs as raffle tickets. There's a drawing each minute and the winner is rewarded with one freshly dug-up CLAM. While the prize always remains the same, your chances of winning vary according to how many tickets(CLAMs) you have.
+To understand POWS, think of your CLAMs as raffle tickets. There's a drawing each minute and the winner is rewarded with one freshly dug-up CLAM. While the prize always remains the same, your chances of winning vary according to how many tickets (CLAMs) you have.
 
-POWS is an evironmentally friendly alternative to Bitcoin's Proof-of-Work(POW) system. POW requires that users solve increasingly difficult math problems. This has created a hardware arms race that consumes massive amounts of electricity worldwide. With CLAMs POWS, it makes no difference if you're using an ancient laptop or a quantum supercomputer!
+POWS is an evironmentally friendly alternative to Bitcoin's Proof-of-Work (POW) system. POW requires that users solve increasingly difficult math problems. This has created a hardware arms race that consumes massive amounts of electricity worldwide. With CLAMs POWS, it makes no difference if you're using an ancient laptop or a quantum supercomputer!
 
 POWS secures the CLAM network from double-spending just as POW does for Bitcoin. About once per minute the network selects one client to verify and process all pending CLAM transactions. A reward of 1 CLAM serves two fundamental purposes. It provides incentive for users to keep their clients running, which increases network security. The reward also helps to stabilize the CLAM price and supply over time by replenising CLAMs that are lost or destroyed by users.
 

@@ -57,9 +57,9 @@ Bleutrade is a startup focused on becoming a leader in cryptocurrency exchange. 
 
 ###Just-Dice.com
 
-[Just-Dice.com](http://just-dice.com){:target="_blank"} is a provably fair CLAM casino where you can play a fast paced dice game with a low 1% house edge and gamble with your CLAM. Pick your chance to win and how much to bet, then select "hi or lo" to roll the dice and get an instant result, win or lose. Alternatively you can invest in the site's bankroll, and share in the site's profits (or losses), while helping offer bigger maximum bets to the players.
+[Just-Dice.com](https://just-dice.com){:target="_blank"} is a provably fair CLAM casino where you can play a fast paced dice game with a low 1% house edge and gamble with your CLAMs. Pick your chance to win and how much to bet, then select "hi or lo" to roll the dice and get an instant result, win or lose. Alternatively you can invest in the site's bankroll, and share in the site's profits (or losses), while helping offer bigger maximum bets to the players.
 
-Just-Dice is run by a long-time member of the CLAMmunity, Dooglus, who continues to spend countless hours assisting with CLAMs development and support. Using CLAMs on Just-Dice is more than just a game or an investment, it's a contribution to the future of CLAMs itself.
+Just-Dice is run by a long-time member of the CLAMmunity, dooglus, who continues to spend countless hours assisting with CLAMs development and support. Using CLAMs on Just-Dice is more than just a game or an investment, it's a contribution to the future of CLAMs itself.
 
 [![Just-Dice]({{ site.url }}/images/I-Have-Bitcoins-Just-Dice-is-first-casualty-of-Canadas-new-Bitcoin-law.png)](https://just-dice.com){:target="_blank"}
 
