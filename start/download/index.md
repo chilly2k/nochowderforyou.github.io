@@ -23,7 +23,7 @@ CLAMS is free and open source software that has been deemed safe and secure by t
 
 ###Getting CLAMs
 
-* Every person who held LTC, BTC or DOGE in May, 2013 received free CLAM, [claim]({{ site.url }}/learn/distribution) them.
+* Every person who held LTC, BTC or DOGE on 12th of May, 2014 received free CLAM, [claim]({{ site.url }}/learn/distribution) them.
 
 * Purchase CLAM on one of the exchanges listed on the [market]({{ site.url }}/learn/market) page.
 
