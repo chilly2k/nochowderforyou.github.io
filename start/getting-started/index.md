@@ -41,6 +41,10 @@ Once your CLAMclient software is connected and sync'd with the network, you may 
 
 ---
 
+##[Raspberry Pi - Linux compile tips]({{ site.url }}/start)   
+
+---
+
 <div><a markdown="0" href="{{ site.url }}/start" class="btn">BACK: Start</a>
 
 <a markdown="0" href="{{ site.url }}/start/download" class="btn">NEXT: Download</a></div>
